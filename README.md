@@ -1,11 +1,12 @@
 <div align="center">
-  <img src="https://storage.sociabuzz.com/storage/files/profile/influencer/lemongtea/lemongtea84.png" width="160" alt="LemongTea Logo"/>
+  <img src="https://storage.sociabuzz.com/storage/files/profile/influencer/lemongtea/lemongtea84.png" width="160" alt="Profile Logo"/>
 </div>
 
 <div align="center">
 
-# 🍋 LemongTea  
-_Fresh Ideas • Clean Code • Digital Creativity_
+# 👨‍💻 BOY CENLY DWI SANDES PASELLA
+
+_Web Developer • Tech Enthusiast • Lifelong Learner_
 
 </div>
 
@@ -13,23 +14,25 @@ _Fresh Ideas • Clean Code • Digital Creativity_
 
 ## 👋 Tentang Saya
 
-Halo! Aku **LemongTea🍋**, seorang developer dan tech enthusiast  
+Halo! Saya **Boy Cenly Dwi Sandes Pasella**, seorang developer yang memiliki minat dalam pengembangan teknologi dan perangkat lunak.
 
-- 💻 Web Development  
+- 💻 Web Development
+- 🚀 Software Engineering
+- 📚 Continuous Learning
+- 🔧 Open Source & Technology
 
 ---
 
 ## 📫 Connect With Me
 
-- 🌐 GitHub: [github.com/LemongTea](https://github.com/LemongTea)
-- 🌐 Website: https://www.boycenlydwisandespasella.site/
-- ☕ Sociabuzz: LemongTea
+- 🌐 GitHub: [github.com/username](https://github.com/username)
+- 💼 LinkedIn: [BOY CENLY DWI SANDES PASELLA](https://id.linkedin.com/in/boy-cenly-dwi-sandes-pasella-a90ba8378)
+- ☕ Sociabuzz: -
 
 ---
 
 <div align="center">
 
-✨ _Keep learning, keep building, stay fresh like lemon tea._ 🍋  
+✨ _Keep learning, keep building, and never stop growing._ ✨
 
 </div>
-
