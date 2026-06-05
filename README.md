@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://storage.sociabuzz.com/storage/files/profile/influencer/lemongtea/lemongtea84.png" width="160" alt="Profile Logo"/>
+  <img src="https://media.licdn.com/dms/image/v2/D5603AQEmu-UYp227Qg/profile-displayphoto-scale_100_100/B56Z5nMtzCKkAY-/0/1779847847337?e=1782345600&v=beta&t=ry6yWWOCtZjLsM5I8h-YgLlLq-K3xySlziPFE28JWNs" width="160" alt="Profile Logo"/>
 </div>
 
 <div align="center">
