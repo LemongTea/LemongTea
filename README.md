@@ -14,7 +14,7 @@ _Web Developer • Tech Enthusiast • Lifelong Learner_
 
 ## 👋 Tentang Saya
 
-Halo! Saya **Boy Cenly Dwi Sandes Pasella**, seorang developer yang memiliki minat dalam pengembangan teknologi dan perangkat lunak.
+Halo! Saya **Boy Cenly Dwi Sandes Pasella**, seorang developer yang memiliki minat dalam pengembangan teknologi.
 
 - 💻 Web Development
 - 🚀 Software Engineering
