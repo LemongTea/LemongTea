@@ -25,7 +25,7 @@ Halo! Saya **Boy Cenly Dwi Sandes Pasella**, seorang developer yang memiliki min
 
 ## 📫 Connect With Me
 
-- 🌐 GitHub: [github.com/username](https://github.com/username)
+- 🌐 GitHub: [github.com/username](https://github.com/LemongTea)
 - 💼 LinkedIn: [BOY CENLY DWI SANDES PASELLA](https://id.linkedin.com/in/boy-cenly-dwi-sandes-pasella-a90ba8378)
 - ☕ Sociabuzz: -
 
