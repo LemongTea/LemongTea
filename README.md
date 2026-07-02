@@ -62,22 +62,30 @@ I enjoy building useful applications, learning new tools, and improving my progr
 </div>
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=LemongTea&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&v=2" height="165" alt="GitHub Stats" />
-
-<img src="https://streak-stats.demolab.com?user=LemongTea&theme=tokyonight&hide_border=true&v=2" height="165" alt="GitHub Streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LemongTea&theme=tokyonight" alt="GitHub Profile Summary" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LemongTea&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&v=2" height="165" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LemongTea&theme=tokyonight" height="165" alt="GitHub Stats" />
+
+<img src="https://streak-stats.demolab.com?user=LemongTea&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
 
 </div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LemongTea&theme=tokyonight" height="165" alt="Top Languages by Repo" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LemongTea&theme=tokyonight" height="165" alt="Top Languages by Commit" />
+
+</div>
+
 
 ---
 
