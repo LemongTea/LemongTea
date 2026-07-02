@@ -67,15 +67,15 @@ I enjoy building useful applications, learning new tools, and improving my progr
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=LemongTea&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=LemongTea&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&v=2" height="165" alt="GitHub Stats" />
 
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=LemongTea&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=LemongTea&theme=tokyonight&hide_border=true&v=2" height="165" alt="GitHub Streak" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LemongTea&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" height="165" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LemongTea&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&v=2" height="165" alt="Top Languages" />
 
 </div>
 
