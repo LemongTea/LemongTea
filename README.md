@@ -6,7 +6,8 @@
 
 # 👨‍💻 BOY CENLY DWI SANDES PASELLA
 
-### Web Developer • Tech Enthusiast • Lifelong Learner
+### Web Developer • Vibe Coding Enthusiast • Lifelong Learner
+
 
 </div>
 
