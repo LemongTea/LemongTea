@@ -22,10 +22,10 @@
       </a>
     </td>
 
-    <td align="center">
+ <td align="center">
       <a href="https://github.com/zielongs">
         <img
-          src="https://github.com/zielongs.png"
+          src="https://github.com/zielongs"
           width="80"
           height="80"
           alt="zielongs"
@@ -34,6 +34,7 @@
         <sub><b>@zielongs</b></sub>
       </a>
     </td>
+    
   </tr>
 </table>
 <div align="center">
