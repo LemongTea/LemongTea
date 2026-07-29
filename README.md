@@ -25,7 +25,7 @@
  <td align="center">
       <a href="https://github.com/zielongs">
         <img
-          src="https://github.com/zielongs"
+          src="https://github.com/zielongs.png"
           width="80"
           height="80"
           alt="zielongs"
