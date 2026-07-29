@@ -1,6 +1,17 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/254956838?s=400&u=684d2fda3bb9d5fad012de0042fa67c6be2cf124&v=4" width="160" alt="Profile Logo" style="border-radius:50%;" />
+  <img src="https://avatars.githubusercontent.com/u/254956838?s=400&u=684d2fda3bb9d5fad012de0042fa67c6be2cf124&v=4"
+       width="160"
+       alt="Profile Logo"
+       style="border-radius:50%;" />
 </div>
+
+<h3 align="center">🤝 People I've Collaborated With</h3>
+
+<!-- COLLABORATORS:START -->
+<p align="center">
+  <i>Collaborators will appear here automatically.</i>
+</p>
+<!-- COLLABORATORS:END -->
 
 <div align="center">
 
@@ -8,9 +19,7 @@
 
 ### Web Developer • Vibe Coding Enthusiast • Lifelong Learner
 
-
 </div>
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile;Web+Developer;Laravel+%7C+React+%7C+Docker;Roblox+Studio+Creator;Always+Learning+New+Things;Keep+Building+and+Keep+Growing" alt="Typing SVG" />
 </div>
