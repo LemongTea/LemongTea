@@ -1,6 +1,6 @@
 <table align="center">
   <tr>
-    <td align="center">
+    <td align="center" width="190">
       <img
         src="https://avatars.githubusercontent.com/u/254956838?s=400&u=684d2fda3bb9d5fad012de0042fa67c6be2cf124&v=4"
         width="160"
@@ -8,10 +8,18 @@
         alt="Boy Cenly Dwi Sandes Pasella"
       />
     </td>
-    <td align="center" width="120">
-      <h2>🇮🇩</h2>
-      <strong>Indonesia</strong>
-    </td>
+<td align="center" width="150">
+  <img
+    src="https://flagcdn.com/w160/id.png"
+    width="90"
+    alt="Indonesia Flag"
+  />
+  <br />
+  <br />
+  <strong>Indonesia</strong>
+  <br />
+  <sub>Based in Indonesia</sub>
+</td>
   </tr>
 </table>
 
@@ -40,7 +48,8 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="190">
+    <!-- REPIMARISKO -->
+    <td align="center" width="200">
       <a href="https://github.com/repimarisko">
         <img
           src="https://github.com/repimarisko.png?size=160"
@@ -49,18 +58,35 @@
           alt="repimarisko"
         />
       </a>
-      <br />
-      <br />
-      <a href="https://github.com/repimarisko">
-        <strong>repimarisko</strong>
-      </a>
-      <br />
-      <sub>@repimarisko</sub>
-      <br />
-      <br />
-      <strong>🇮🇩 Indonesia</strong>
-    </td>
-<td align="center" width="190">
+
+
+  <br />
+  <br />
+
+  <a href="https://github.com/repimarisko">
+    <strong>repimarisko</strong>
+  </a>
+
+  <br />
+
+  <sub>@repimarisko</sub>
+
+  <br />
+  <br />
+
+  <img
+    src="https://flagcdn.com/w80/id.png"
+    width="38"
+    alt="Indonesia Flag"
+  />
+
+  <br />
+
+  <sub><strong>Indonesia</strong></sub>
+</td>
+
+<!-- ZIELONGS -->
+<td align="center" width="200">
   <a href="https://github.com/zielongs">
     <img
       src="https://github.com/zielongs.png?size=160"
@@ -69,19 +95,34 @@
       alt="zielongs"
     />
   </a>
+
   <br />
   <br />
+
   <a href="https://github.com/zielongs">
     <strong>zielongs</strong>
   </a>
+
   <br />
+
   <sub>@zielongs</sub>
+
   <br />
   <br />
-  <strong>🇲🇾 Malaysia</strong>
+
+  <img
+    src="https://flagcdn.com/w80/my.png"
+    width="38"
+    alt="Malaysia Flag"
+  />
+
+  <br />
+
+  <sub><strong>Malaysia</strong></sub>
 </td>
 
-<td align="center" width="190">
+<!-- SYAHREZA20 -->
+<td align="center" width="200">
   <a href="https://github.com/Syahreza20">
     <img
       src="https://github.com/Syahreza20.png?size=160"
@@ -90,17 +131,33 @@
       alt="Syahreza20"
     />
   </a>
+
   <br />
   <br />
+
   <a href="https://github.com/Syahreza20">
     <strong>Syahreza20</strong>
   </a>
+
   <br />
+
   <sub>@Syahreza20</sub>
+
   <br />
   <br />
-  <strong>🇮🇩 Indonesia</strong>
+
+  <img
+    src="https://flagcdn.com/w80/id.png"
+    width="38"
+    alt="Indonesia Flag"
+  />
+
+  <br />
+
+  <sub><strong>Indonesia</strong></sub>
 </td>
+```
+
   </tr>
 </table>
 
@@ -158,6 +215,7 @@ I’m interested in web development, system design, and technology exploration. 
 </div>
 
 ---
+
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -207,7 +265,6 @@ I’m interested in web development, system design, and technology exploration. 
 </a>
 
 </div>
-
 
 ---
 
