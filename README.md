@@ -7,12 +7,35 @@
 
 <h3 align="center">🤝 People I've Collaborated With</h3>
 
-<!-- COLLABORATORS:START -->
-<p align="center">
-  <i>Belum ada contributor lain pada repository publik.</i>
-</p>
-<!-- COLLABORATORS:END -->
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/repimarisko">
+        <img
+          src="https://github.com/repimarisko.png"
+          width="80"
+          height="80"
+          alt="repimarisko"
+        />
+        <br />
+        <sub><b>@repimarisko</b></sub>
+      </a>
+    </td>
 
+    <td align="center">
+      <a href="https://github.com/zielongs">
+        <img
+          src="https://github.com/zielongs.png"
+          width="80"
+          height="80"
+          alt="zielongs"
+        />
+        <br />
+        <sub><b>@zielongs</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 <div align="center">
 
 # 👨‍💻 BOY CENLY DWI SANDES PASELLA
