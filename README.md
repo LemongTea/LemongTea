@@ -156,16 +156,10 @@
 
   <sub><strong>Indonesia</strong></sub>
 </td>
-```
+
 
   </tr>
 </table>
-
-<p align="center">
-  <sub>
-    Thank you for sharing ideas, code, and unforgettable debugging sessions. 🚀
-  </sub>
-</p>
 
 ---
 
