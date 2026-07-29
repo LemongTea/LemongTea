@@ -9,7 +9,7 @@
 
 <!-- COLLABORATORS:START -->
 <p align="center">
-  <i>Collaborators will appear here automatically.</i>
+  <i>Belum ada contributor lain pada repository publik.</i>
 </p>
 <!-- COLLABORATORS:END -->
 
