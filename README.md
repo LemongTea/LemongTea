@@ -35,6 +35,19 @@
       </a>
     </td>
     
+ <td align="center">
+      <a href="https://github.com/Syahreza20">
+        <img
+          src="https://github.com/Syahreza20.png"
+          width="80"
+          height="80"
+          alt="Syahreza20"
+        />
+        <br />
+        <sub><b>@Syahreza20</b></sub>
+      </a>
+    </td>
+    
   </tr>
 </table>
 <div align="center">
