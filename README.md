@@ -160,49 +160,56 @@ I’m interested in web development, system design, and technology exploration. 
 </div>
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LemongTea&theme=tokyonight"
-alt="GitHub Profile Summary"
-/>
-
-</div>
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LemongTea&theme=tokyonight"
-height="165"
-alt="GitHub Stats"
-/>
+<a href="https://github.com/LemongTea">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LemongTea&theme=tokyonight"
+    width="100%"
+    alt="Boy Cenly GitHub Profile Summary"
+  />
+</a>
 
-<img
-src="https://streak-stats.demolab.com?user=LemongTea&theme=tokyonight&hide_border=true"
-height="165"
-alt="GitHub Streak"
-/>
+<br />
+
+<a href="https://github.com/LemongTea">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LemongTea&theme=tokyonight"
+    width="48%"
+    alt="Boy Cenly GitHub Statistics"
+  />
+</a>
+
+<a href="https://git.io/streak-stats">
+  <img
+    src="https://streak-stats.demolab.com?user=LemongTea&theme=tokyonight&hide_border=true"
+    width="48%"
+    alt="Boy Cenly GitHub Contribution Streak"
+  />
+</a>
+
+<br />
+
+<a href="https://github.com/LemongTea?tab=repositories">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LemongTea&theme=tokyonight"
+    width="48%"
+    alt="Programming Languages by Repository"
+  />
+</a>
+
+<a href="https://github.com/LemongTea">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LemongTea&theme=tokyonight"
+    width="48%"
+    alt="Programming Languages by Commit"
+  />
+</a>
 
 </div>
 
-<div align="center">
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LemongTea&theme=tokyonight"
-height="165"
-alt="Top Languages by Repository"
-/>
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LemongTea&theme=tokyonight"
-height="165"
-alt="Top Languages by Commit"
-/>
-
-</div>
 
 ---
 
