@@ -1,55 +1,20 @@
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/254956838?s=400&u=684d2fda3bb9d5fad012de0042fa67c6be2cf124&v=4"
-       width="160"
-       alt="Profile Logo"
-       style="border-radius:50%;" />
-</div>
-
-<h3 align="center">🤝 People I've Collaborated With</h3>
-
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/repimarisko">
-        <img
-          src="https://github.com/repimarisko.png"
-          width="80"
-          height="80"
-          alt="repimarisko"
-        />
-        <br />
-        <sub><b>@repimarisko</b></sub>
-      </a>
+      <img
+        src="https://avatars.githubusercontent.com/u/254956838?s=400&u=684d2fda3bb9d5fad012de0042fa67c6be2cf124&v=4"
+        width="160"
+        height="160"
+        alt="Boy Cenly Dwi Sandes Pasella"
+      />
     </td>
-
- <td align="center">
-      <a href="https://github.com/zielongs">
-        <img
-          src="https://github.com/zielongs.png"
-          width="80"
-          height="80"
-          alt="zielongs"
-        />
-        <br />
-        <sub><b>@zielongs</b></sub>
-      </a>
+    <td align="center" width="120">
+      <h2>🇮🇩</h2>
+      <strong>Indonesia</strong>
     </td>
-    
- <td align="center">
-      <a href="https://github.com/Syahreza20">
-        <img
-          src="https://github.com/Syahreza20.png"
-          width="80"
-          height="80"
-          alt="Syahreza20"
-        />
-        <br />
-        <sub><b>@Syahreza20</b></sub>
-      </a>
-    </td>
-    
   </tr>
 </table>
+
 <div align="center">
 
 # 👨‍💻 BOY CENLY DWI SANDES PASELLA
@@ -57,9 +22,95 @@
 ### Web Developer • Vibe Coding Enthusiast • Lifelong Learner
 
 </div>
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile;Web+Developer;Laravel+%7C+React+%7C+Docker;Roblox+Studio+Creator;Always+Learning+New+Things;Keep+Building+and+Keep+Growing" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile;Web+Developer;Laravel+%7C+React+%7C+Docker;Roblox+Studio+Creator;Always+Learning+New+Things;Keep+Building+and+Keep+Growing"
+    alt="Typing SVG"
+  />
 </div>
+
+---
+
+## 🤝 People I've Collaborated With
+
+<p align="center">
+  Awesome people I have worked with, shared ideas with, and built projects with.
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="190">
+      <a href="https://github.com/repimarisko">
+        <img
+          src="https://github.com/repimarisko.png?size=160"
+          width="96"
+          height="96"
+          alt="repimarisko"
+        />
+      </a>
+      <br />
+      <br />
+      <a href="https://github.com/repimarisko">
+        <strong>repimarisko</strong>
+      </a>
+      <br />
+      <sub>@repimarisko</sub>
+      <br />
+      <br />
+      <strong>🇮🇩 Indonesia</strong>
+    </td>
+<td align="center" width="190">
+  <a href="https://github.com/zielongs">
+    <img
+      src="https://github.com/zielongs.png?size=160"
+      width="96"
+      height="96"
+      alt="zielongs"
+    />
+  </a>
+  <br />
+  <br />
+  <a href="https://github.com/zielongs">
+    <strong>zielongs</strong>
+  </a>
+  <br />
+  <sub>@zielongs</sub>
+  <br />
+  <br />
+  <strong>🇲🇾 Malaysia</strong>
+</td>
+
+<td align="center" width="190">
+  <a href="https://github.com/Syahreza20">
+    <img
+      src="https://github.com/Syahreza20.png?size=160"
+      width="96"
+      height="96"
+      alt="Syahreza20"
+    />
+  </a>
+  <br />
+  <br />
+  <a href="https://github.com/Syahreza20">
+    <strong>Syahreza20</strong>
+  </a>
+  <br />
+  <sub>@Syahreza20</sub>
+  <br />
+  <br />
+  <strong>🇮🇩 Indonesia</strong>
+</td>
+```
+
+  </tr>
+</table>
+
+<p align="center">
+  <sub>
+    Thank you for sharing ideas, code, and unforgettable debugging sessions. 🚀
+  </sub>
+</p>
 
 ---
 
@@ -76,8 +127,8 @@
 ## 🚀 About Me
 
 Hi, I’m **Boy Cenly Dwi Sandes Pasella**.
-I’m interested in web development, system design, and technology exploration.
-I enjoy building useful applications, learning new tools, and improving my programming skills every day.
+
+I’m interested in web development, system design, and technology exploration. I enjoy building useful applications, learning new tools, and improving my programming skills every day.
 
 * 🔭 Currently working on web-based information systems
 * 🌱 Currently learning Laravel, React, API integration, Docker, and data-driven systems
@@ -109,30 +160,49 @@ I enjoy building useful applications, learning new tools, and improving my progr
 </div>
 
 ---
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LemongTea&theme=tokyonight" alt="GitHub Profile Summary" />
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LemongTea&theme=tokyonight"
+alt="GitHub Profile Summary"
+/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LemongTea&theme=tokyonight" height="165" alt="GitHub Stats" />
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LemongTea&theme=tokyonight"
+height="165"
+alt="GitHub Stats"
+/>
 
-<img src="https://streak-stats.demolab.com?user=LemongTea&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
+<img
+src="https://streak-stats.demolab.com?user=LemongTea&theme=tokyonight&hide_border=true"
+height="165"
+alt="GitHub Streak"
+/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LemongTea&theme=tokyonight" height="165" alt="Top Languages by Repo" />
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LemongTea&theme=tokyonight"
+height="165"
+alt="Top Languages by Repository"
+/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LemongTea&theme=tokyonight" height="165" alt="Top Languages by Commit" />
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LemongTea&theme=tokyonight"
+height="165"
+alt="Top Languages by Commit"
+/>
 
 </div>
-
 
 ---
 
