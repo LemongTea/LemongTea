@@ -101,8 +101,6 @@
   <br />
   <strong>🇮🇩 Indonesia</strong>
 </td>
-```
-
   </tr>
 </table>
 
